@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[[redirects]]
+  from = "https://www.mlallanamusic.com/*"
+  to = "https://mlallanamusic.com/*"
+  status = 301
+  force = true

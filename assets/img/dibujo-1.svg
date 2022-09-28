@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="dibujo-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-page="false"
+     inkscape:zoom="0.66635802"
+     inkscape:cx="396.18342"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1399"
+     inkscape:window-height="934"
+     inkscape:window-x="1961"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path55"
+       cx="104.22794"
+       cy="153.26471"
+       rx="97.875"
+       ry="93.705879" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path57"
+       cx="163.78677"
+       cy="156.83823"
+       rx="0.59558821"
+       ry="9.1323528" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:125.314;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="32.955883"
+       y="141.35294"
+       id="text2792"
+       transform="translate(9.9264709,23.823529)"><tspan
+         x="32.955883"
+         y="141.35294"
+         id="tspan154631"><tspan
+           style="font-family:Baskerville;-inkscape-font-specification:Baskerville"
+           id="tspan154629">MLM</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Norfolk Std';-inkscape-font-specification:'Norfolk Std';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="148.89706"
+       y="193.76471"
+       id="text45898"><tspan
+         sodipodi:role="line"
+         id="tspan45896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Norfolk Std';-inkscape-font-specification:'Norfolk Std';stroke-width:0.264583"
+         x="148.89706"
+         y="193.76471" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Norfolk Std';-inkscape-font-specification:'Norfolk Std';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="114.74999"
+       y="183.44118"
+       id="text75670"><tspan
+         sodipodi:role="line"
+         id="tspan75668"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Norfolk Std';font-family:'Norfolk Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="114.74999"
+         y="183.44118" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;line-height:1.25;font-family:Bravura;-inkscape-font-specification:Bravura;stroke-width:0.264583"
+       x="105.61766"
+       y="143.33824"
+       id="text87812"><tspan
+         sodipodi:role="line"
+         id="tspan87810"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Norfolk Std';-inkscape-font-specification:'Norfolk Std';stroke-width:0.264583"
+         x="105.61766"
+         y="143.33824">?</tspan></text>
+  </g>
+</svg>

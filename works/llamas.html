@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="../assets/img/favicon.png" rel="icon">
-  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="../assets/img/logo4.png" rel="icon">
+  <link href="../assets/img/logo4.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=https://fonts.googleapis.com/css?family=Inconsolata:400,500,600,700|Raleway:400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -24,6 +24,8 @@
 
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
+ 
+
 
   <!-- =======================================================
   * Template Name: MyPortfolio - v4.7.0
@@ -110,13 +112,31 @@
                 </div>
                 <h3 class="h3">Estreno en el auditorio de la EMC</h3>
                 <p class="mb-4"><span class="text-muted">2022</span></p>
-                
+
+
+                <link rel="stylesheet" type="text/css" href="../assets/css/green-audio-player.css">
+                <script src="../assets/js/green-audio-player.js"></script>
+                <script>
+                  document.addEventListener('DOMContentLoaded', function() {
+                      new GreenAudioPlayer('.llamas', { showTooltips: true, showDownloadButton: false, enableKeystrokes: true });
+                  });
+              </script>
+                <div class="llamas">
+                  <audio>
+                      <source src="../assets/music/llamas.mpeg" type="audio/mpeg">
+                  </audio>
+              </div>
+                  
+                 
+              
+              <!-- 
                 <div id="player" class="mxa" style="width: 100px; height: 100px;"></div>
                 <script src="https://unpkg.com/microne/microne.js"></script>
                 <script>
                   var m = new Microne(document.getElementById('player'))
                   m.source('../assets/music/llamas.mpeg')
                 </script>
+-->
                 <h4 class="h4 mb-4"></h4>
                 <h4 class="h4 mb-4">Intérpretes</h4>
                 <ul class="list-unstyled list-line mb-5">
