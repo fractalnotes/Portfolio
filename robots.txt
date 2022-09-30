@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://mlallanamusic.com/sitemap.xml
