@@ -6,7 +6,7 @@
   force = true
 [[redirects]]
   from = "https://mlallanamusic.com/works/*"
-  to = "https://mlallanamusic.com/trabajos"
+  to = "https://mlallanamusic.com/trabajos/*"
   status = 301
   force = true
 [[redirects]]
