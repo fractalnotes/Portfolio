@@ -5,8 +5,8 @@
   status = 301
   force = true
 [[redirects]]
-  from = "https://mlallanamusic.com/works/*"
-  to = "https://mlallanamusic.com/trabajos/*"
+  from = "https://mlallanamusic.com/works"
+  to = "https://mlallanamusic.com/trabajos"
   status = 301
   force = true
 [[redirects]]
@@ -32,5 +32,10 @@
 [[redirects]]
   from = "https://www.mlallanamusic.com/services"
   to = "https://mlallanamusic.com/experiencia"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mlallanamusic.com/works/llamas"
+  to = "https://mlallanamusic.com/trabajos/llamas"
   status = 301
   force = true
