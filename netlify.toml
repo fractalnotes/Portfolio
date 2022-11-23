@@ -5,17 +5,17 @@
   status = 301
   force = true
 [[redirects]]
-  from = "https://www.mlallanamusic.com/works"
+  from = "https://mlallanamusic.com/works"
   to = "https://mlallanamusic.com/trabajos"
   status = 301
   force = true
 [[redirects]]
-  from = "https://www.mlallanamusic.com/contact"
+  from = "https://mlallanamusic.com/contact"
   to = "https://mlallanamusic.com/contacto"
   status = 301
   force = true
 [[redirects]]
-  from = "https://www.mlallanamusic.com/services"
+  from = "https://mlallanamusic.com/services"
   to = "https://mlallanamusic.com/experiencia"
   status = 301
   force = true
