@@ -4,3 +4,18 @@
   to = "https://mlallanamusic.com/*"
   status = 301
   force = true
+[[redirects]]
+  from = "https://www.mlallanamusic.com/works"
+  to = "https://mlallanamusic.com/trabajos"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.mlallanamusic.com/contact"
+  to = "https://mlallanamusic.com/contacto"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.mlallanamusic.com/services"
+  to = "https://mlallanamusic.com/experiencia"
+  status = 301
+  force = true
