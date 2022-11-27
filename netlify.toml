@@ -39,3 +39,50 @@
   to = "https://mlallanamusic.com/trabajos/llamas"
   status = 301
   force = true
+[[redirects]]
+  from = "https://mlallanamusic.com/works/llamas"
+  to = "https://mlallanamusic.com/trabajos/llamas"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://mlallanamusic.com/works/tulip"
+  to = "https://mlallanamusic.com/trabajos/tulip"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://mlallanamusic.com/works/besos"
+  to = "https://mlallanamusic.com/trabajos/besos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://mlallanamusic.com/works/web"
+  to = "https://mlallanamusic.com/trabajos/web"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://mlallanamusic.com/works/testigos"
+  to = "https://mlallanamusic.com/trabajos/testigos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://mlallanamusic.com/works/cientos"
+  to = "https://mlallanamusic.com/trabajos/cientos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://mlallanamusic.com/works/recuerdos"
+  to = "https://mlallanamusic.com/trabajos/recuerdos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://mlallanamusic.com/works/logo"
+  to = "https://mlallanamusic.com/trabajos/logo"
+  status = 301
+  force = true
