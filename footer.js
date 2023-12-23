@@ -9,6 +9,7 @@ document.getElementById('footer-container').innerHTML =`
       <div class="col-sm-12 col-12 social text-md-center">
         <a href="https://www.instagram.com/manuel_l01/?hl=es" target="_blank"><span class="bi bi-instagram"></span></a>
         <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=mlallanab01@gmail.com" target="_blank"><span class="bi bi-envelope"></span></a>
+        <a href="https://github.com/mlb-alumno" target="_blank"><span class="bi bi-github"></span></a>
         </div>
     </div>
   </div>
